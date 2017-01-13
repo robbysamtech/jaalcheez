@@ -17,7 +17,7 @@ import javax.ws.rs.core.Response;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.jaalsheez.school.base.ApplicationContext;
+import com.jaalcheez.school.base.ApplicationContext;
 
 @Path("/attndsrvc")
 public class Attndsrvc {

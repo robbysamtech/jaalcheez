@@ -2,7 +2,7 @@ package com.jaalcheez.school.educatent;
 
 import org.json.JSONObject;
 
-import com.jaalsheez.school.base.IAttendanceManager;
+import com.jaalcheez.school.base.IAttendanceManager;
 
 public class AttendanceImpl implements IAttendanceManager {
 

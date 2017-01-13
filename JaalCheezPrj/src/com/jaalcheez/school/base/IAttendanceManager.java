@@ -1,4 +1,4 @@
-package com.jaalsheez.school.base;
+package com.jaalcheez.school.base;
 
 import org.json.JSONObject;
 

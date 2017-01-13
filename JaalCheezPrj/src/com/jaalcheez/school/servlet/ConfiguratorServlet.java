@@ -8,7 +8,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
-import com.jaalsheez.school.base.ApplicationContext;
+import com.jaalcheez.school.base.ApplicationContext;
 
 public class ConfiguratorServlet extends GenericServlet {
 	

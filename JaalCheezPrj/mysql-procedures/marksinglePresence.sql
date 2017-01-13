@@ -6,6 +6,7 @@ IN attShortName varchar(1),
 OUT retValue varchar(15))
 procYesPath: BEGIN
 DECLARE varRoomId varchar(15);
+DECLARE varStudentId varchar(15);
 DECLARE varPeriodId varchar(15);
 DECLARE varCoursePeriodId varchar(15);
 DECLARE varTeacherId varchar(15);
